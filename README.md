@@ -2,6 +2,7 @@
 
 Tai-e 学习记录
 博客地址：https://blog.csdn.net/qsort_/article/details/130760134
+微信公众号：小胖的安全之旅
 
 # 0x01 活跃变量分析和迭代求解器
 
